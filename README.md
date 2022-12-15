@@ -43,6 +43,8 @@ Le jeu consiste à alimenter ce slideshow par du code, et que ce soit agréable 
 $ yarn install
 ```
 
+#  Ajouter un nouveau collaborateur
+
 ## 2️⃣ Lancement en local
 
 ```sh
@@ -56,3 +58,5 @@ Passer par les [issues Github](https://github.com/adriens/livre-or-collaborateur
 # 🔖 Accéder au site
 
 Le site web est accessible [ici](https://bit.ly/3RuNs1o).
+
+
